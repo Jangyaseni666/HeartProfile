@@ -1,4 +1,4 @@
-# HeartProfile
+# [HeartProfile](heartprofile.com)
 
 ## "Empowering Your Heart Health: Predict, Prevent, Prosper"
 
