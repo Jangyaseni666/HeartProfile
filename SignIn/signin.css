@@ -1,0 +1,71 @@
+#signin_div{
+    margin: auto;
+    margin-top: 5%;
+    width: 30%;
+    padding: 5%;
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    gap: 12px;
+    border: 2px solid black;
+    border-radius: 12px;
+}
+
+#signin_div input{
+    width: 100%;
+    padding: 2%;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+#signin{
+    background-color: rgb(230, 95, 95);
+    color: white;
+    width: 30%;
+    border-radius: 20px;
+    font-size: medium   ;
+    border: none;
+    padding: 3% 2%;
+    margin-left: 10.5vw;
+}
+
+#signin:hover{
+    cursor: pointer;
+    border: 2px solid white;
+    box-shadow: 0 0 20px rgb(245, 176, 176);
+    transition: border 1ms ease-in;
+}
+
+#signin_div span{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: medium;
+    color: black;
+    font: 'Lucida Sans';
+}
+
+#signin_div span a{
+    text-decoration: none;
+}
+
+#signin_div span a:hover{
+    color: blue;
+    text-decoration: underline  ;
+}
+
+/* 755 px max width for responsive */
+
+@media screen and (max-width: 755px) {
+
+    #signin_div{
+        width: 65%;
+    }
+    
+    #signin{
+        width: 30%;
+        font-size: small;
+        padding: 4% 3%;
+        margin-left: 20vw;
+    }
+    
+}
