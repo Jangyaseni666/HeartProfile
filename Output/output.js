@@ -98,7 +98,7 @@ const details = fetch("http://localhost:8082/users", {
       function ratef(points) {
         if (points < 9) {
           percentage = "<1%";
-          points_m = 0;
+          points_m = 0.02;
         } else if (points <= 12) {
           percentage = "1%";
           points_m = 0.03;
@@ -137,7 +137,7 @@ const details = fetch("http://localhost:8082/users", {
           points_m = 0.9;
         } else {
           percentage = "Over 30%";
-          points_m = 1;
+          points_m = 0.95;
         }
       }
       console.log(percentage, points_m);
@@ -170,7 +170,7 @@ const details = fetch("http://localhost:8082/users", {
       function ratem(points) {
         if (points === 0) {
           percentage = "<1%";
-          points_m = 0;
+          points_m = 0.02;
         } else if (points >= 1 && points <= 4) {
           percentage = "1%";
           points_m = 0.03;
@@ -209,7 +209,7 @@ const details = fetch("http://localhost:8082/users", {
           points_m = 0.83;
         } else {
           percentage = "Over 30%";
-          points_m = 1;
+          points_m = 0.95;
         }
       }
       console.log(percentage, points_m);

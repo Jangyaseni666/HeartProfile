@@ -100,8 +100,14 @@
       padding-left: 10%;
       scale: 1.2;
     }
-    #patient{
-      scale: 1.1;
+    #patient p{
+      font-size: 150%;
+      margin-left: 4%;
+      display: flex;
+      gap: 5%;
+    }
+    .percentage {
+      scale: 0.8;
     }
   }
   
@@ -198,5 +204,16 @@
         }
         #result p {
           margin-left: 4%;
+        }
+        #patient p{
+          font-size: 150%;
+          margin-right: 4%;
+          text-align: left;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+        }
+        .percentage {
+          scale: 0.8;
         }
   }
