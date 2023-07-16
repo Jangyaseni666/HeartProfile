@@ -8,6 +8,19 @@
 
 ## **Home Page:**
 
-![Home Page](https://github.com/Jangyaseni666/HeartProfile/assets/96827920/e011e123-23c7-427e-bd4f-cee2fc3744ae)
+![home](https://github.com/Jangyaseni666/HeartProfile/assets/96827920/59be0077-0bc3-472d-86ea-033e15679637)
+
+
+## **Heart Risk Calculator:**
+
+![predictor](https://github.com/Jangyaseni666/HeartProfile/assets/96827920/8dde3e40-1aa1-4194-8f6a-d087ac04817b)
+
+## **Your Results:**
+
+![report](https://github.com/Jangyaseni666/HeartProfile/assets/96827920/d04ffe43-05bb-4a5b-9c98-dd6ba07de69a)
+
+
+
+
 
 
