@@ -1,4 +1,6 @@
+
 @media screen and (min-width: 661px) {
+
     #banner {
       display: flex;
       align-items: center;
@@ -100,9 +102,10 @@
       padding-left: 10%;
       scale: 1.2;
     }
-    #patient p{
+    #patient{
+      margin: 5%;
       font-size: 150%;
-      margin-left: 4%;
+      margin-left: 6%;
       display: flex;
       gap: 5%;
     }
@@ -205,7 +208,11 @@
         #result p {
           margin-left: 4%;
         }
-        #patient p{
+        #content>h2{
+          text-align: center;
+          margin-right: 8%;
+        } 
+        #patient{
           font-size: 150%;
           margin-right: 4%;
           text-align: left;

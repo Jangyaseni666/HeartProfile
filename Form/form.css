@@ -114,6 +114,10 @@
         margin:  0 0 0 5px;
     }
 
+    nav div span>.bi{
+        font-size: x-large;
+    }
+
     #submit{
         margin-top: 2%;
         margin-left: 2.5%;
@@ -261,6 +265,7 @@
         font-size: small;
         margin:  0 0 0 5px;
     }
+
 
     #submit{
         margin-left: 4.5%;

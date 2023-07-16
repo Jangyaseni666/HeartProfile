@@ -1,3 +1,8 @@
+//const token = localStorage.getItem("token");
+if(token==null){
+  window.location.href='../SignIn/signin.html';
+}
+
 let extractedWord = [];
 $.each($(".radio-btn"), function (key, value) {
   $(this).click(function (e) {
@@ -32,7 +37,6 @@ const hdlch = document.getElementById("hdl_ch");
 const bpv = document.getElementById("sbp");
 const dform = document.getElementById("dform");
 let points = 0;
-localStorage.setItem("id", 1);
 
 const age_f = {
   4: -7,
@@ -367,10 +371,8 @@ dform.addEventListener("submit", () => {
     },
     body: JSON.stringify(details),
   })
-    .then((res) => res.json())
-    .then((data) => {
-      console.log(data);
+    .then((res) => {
       window.location.href = "../Output/output.html";
-    });
+    })
   points = 0;
 });

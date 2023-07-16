@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "email": "abc@gmail.com",
+      "name": "Abc",
+      "mob": "123456789",
+      "password": "123",
+      "id": 1
+    }
+  ],
+  "details": [
+    {
+      "gender": "male",
+      "age": [
+        "25",
+        -9
+      ],
+      "totch": [
+        "135",
+        0
+      ],
+      "smoker": [
+        "smk_yes",
+        8
+      ],
+      "hdlch": [
+        "45",
+        1
+      ],
+      "bp_type": "ubp",
+      "bp_value": [
+        "125",
+        0
+      ],
+      "point": 0,
+      "user_id": "1",
+      "id": 1
+    }
+  ]
+}
