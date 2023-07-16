@@ -78,7 +78,7 @@
         border-color: #ffffff;
     }
 
-    form {
+    #form {
         background-color: #FFFFFF;
         display: flex;
         align-items: center;
@@ -232,7 +232,7 @@
         border-color: #ffffff;
     }
 
-    form {
+    #form {
         background-color: #FFFFFF;
         display: flex;
         align-items: center;
