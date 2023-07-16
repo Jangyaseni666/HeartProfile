@@ -9,32 +9,5 @@
     }
   ],
   "details": [
-    {
-      "gender": "male",
-      "age": [
-        "25",
-        -9
-      ],
-      "totch": [
-        "135",
-        0
-      ],
-      "smoker": [
-        "smk_yes",
-        8
-      ],
-      "hdlch": [
-        "45",
-        1
-      ],
-      "bp_type": "ubp",
-      "bp_value": [
-        "125",
-        0
-      ],
-      "point": 0,
-      "user_id": "1",
-      "id": 1
-    }
   ]
 }
