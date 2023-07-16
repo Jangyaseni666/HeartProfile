@@ -276,8 +276,8 @@ age.onchange = () => {
 };
 
 totch.onchange = () => {
-  console.log(totch.value < 90 || totch.value > 200);
-  if (totch.value < 90 || totch.value > 200) {
+  console.log(totch.value < 90 || totch.value > 300);
+  if (totch.value < 90 || totch.value > 300) {
     document.getElementById("totch_msg").style.color = "red";
   } else {
     document.getElementById("totch_msg").style.color = "green";
