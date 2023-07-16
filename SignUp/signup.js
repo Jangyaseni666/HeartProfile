@@ -20,7 +20,6 @@ button.addEventListener("click", () => {
   })
     .then((res) => res.json())
     .then((data) => {
-        alert("Account registered");
-        // window.location.href= "../signin/signin.html";
+        window.location.href= "../SignIn/signin.html";
     });
 });
