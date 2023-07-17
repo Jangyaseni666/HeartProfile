@@ -30,11 +30,11 @@
 
 
 ## Project By:
-# [Ansuman Parija](https://github.com/ansuman23)
-# [Shreyas Swain](https://github.com/Shreyas-Swain-10)
-# [Sidharth Mishra](https://github.com/prefonixs)
-# [Tanuj Natia](https://github.com/Tanuj2324)
-# [Jangyaseni Sahoo](https://github.com/Jangyaseni666) {TL}
+### [Ansuman Parija](https://github.com/ansuman23)
+### [Shreyas Swain](https://github.com/Shreyas-Swain-10)
+### [Sidharth Mishra](https://github.com/prefonixs)
+### [Tanuj Natia](https://github.com/Tanuj2324)
+### [Jangyaseni Sahoo](https://github.com/Jangyaseni666) {TL}
 
 
 
