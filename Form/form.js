@@ -371,8 +371,7 @@ dform.addEventListener("submit", () => {
     },
     body: JSON.stringify(details),
   })
-    .then((res) => {
-      window.location.href = "../Output/output.html";
-    })
+
+  window.open("../Output/output.html");
   points = 0;
 });

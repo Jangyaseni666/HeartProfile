@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/Jangyaseni666/HeartProfile#readme",
   "dependencies": {
-    "json-server": "^0.17.3"
+    "json-server": "^0.17.4"
   }
 }

@@ -9,5 +9,242 @@
     }
   ],
   "details": [
+    {
+      "gender": "male",
+      "age": [
+        "25",
+        -9
+      ],
+      "totch": [
+        "200",
+        7
+      ],
+      "smoker": [
+        "smk_yes",
+        8
+      ],
+      "hdlch": [
+        "25",
+        2
+      ],
+      "bp_type": "ubp",
+      "bp_value": [
+        "95",
+        0
+      ],
+      "point": 8,
+      "user_id": "1",
+      "id": 1
+    },
+    {
+      "gender": "male",
+      "age": [
+        "25",
+        -9
+      ],
+      "totch": [
+        "150",
+        0
+      ],
+      "smoker": [
+        "smk_yes",
+        8
+      ],
+      "hdlch": [
+        "30",
+        2
+      ],
+      "bp_type": "tbp",
+      "bp_value": [
+        "98",
+        0
+      ],
+      "point": 1,
+      "user_id": "1",
+      "id": 2
+    },
+    {
+      "gender": "male",
+      "age": [
+        "25",
+        -9
+      ],
+      "totch": [
+        "150",
+        0
+      ],
+      "smoker": [
+        "smk_yes",
+        8
+      ],
+      "hdlch": [
+        "30",
+        2
+      ],
+      "bp_type": "tbp",
+      "bp_value": [
+        "98",
+        0
+      ],
+      "point": 1,
+      "user_id": "1",
+      "id": 3
+    },
+    {
+      "gender": "male",
+      "age": [
+        "30",
+        -9
+      ],
+      "totch": [
+        "150",
+        0
+      ],
+      "smoker": [
+        "smk_yes",
+        8
+      ],
+      "hdlch": [
+        "30",
+        2
+      ],
+      "bp_type": "tbp",
+      "bp_value": [
+        "98",
+        0
+      ],
+      "point": 1,
+      "user_id": "1",
+      "id": 4
+    },
+    {
+      "gender": "male",
+      "age": [
+        "56",
+        8
+      ],
+      "totch": [
+        "150",
+        0
+      ],
+      "smoker": [
+        "smk_yes",
+        3
+      ],
+      "hdlch": [
+        "30",
+        2
+      ],
+      "bp_type": "tbp",
+      "bp_value": [
+        "98",
+        0
+      ],
+      "point": 13,
+      "user_id": "1",
+      "id": 5
+    },
+    {
+      "age": [
+        "56",
+        8
+      ],
+      "totch": [
+        "150",
+        0
+      ],
+      "smoker": [
+        null,
+        3
+      ],
+      "hdlch": [
+        "30",
+        2
+      ],
+      "bp_value": [
+        "98",
+        0
+      ],
+      "point": 10,
+      "user_id": "1",
+      "id": 6
+    },
+    {
+      "age": [
+        "56",
+        8
+      ],
+      "totch": [
+        "150",
+        0
+      ],
+      "smoker": [
+        null,
+        3
+      ],
+      "hdlch": [
+        "30",
+        2
+      ],
+      "bp_value": [
+        "98",
+        0
+      ],
+      "point": 10,
+      "user_id": "1",
+      "id": 7
+    },
+    {
+      "age": [
+        "56",
+        8
+      ],
+      "totch": [
+        "150",
+        0
+      ],
+      "smoker": [
+        null,
+        3
+      ],
+      "hdlch": [
+        "30",
+        2
+      ],
+      "bp_value": [
+        "98",
+        0
+      ],
+      "point": 10,
+      "user_id": "1",
+      "id": 8
+    },
+    {
+      "gender": "male",
+      "age": [
+        "57",
+        8
+      ],
+      "totch": [
+        "159",
+        0
+      ],
+      "smoker": [
+        "smk_yes",
+        3
+      ],
+      "hdlch": [
+        "30",
+        2
+      ],
+      "bp_type": "tbp",
+      "bp_value": [
+        "97",
+        0
+      ],
+      "point": 13,
+      "user_id": "1",
+      "id": 9
+    }
   ]
 }
